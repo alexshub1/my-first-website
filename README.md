@@ -22,3 +22,6 @@ In Stream 2,
 And in Stream 3,
 1. Django
 2. Heroku
+
+Please use this link to view the live deployed project which is hosted on GitHub Pages.
+https://alexshub1.github.io/my-first-website/
